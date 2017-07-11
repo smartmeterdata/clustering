@@ -22,8 +22,12 @@ FindUserAvgs.py - Find the average power usage for each user
 
 Intervals_122014_User_Avgs.csv - Contains the output of FindUserAvgs.py
 
-Avgs_Clustering.ipynb - Contains initial clustering based in Intervals_122014_User_Avgs.csv
 
+Clustering.ipynb - contains clean and commented second attempt at clustering
+
+Separation_Script- Contains the scripts used to separate users into different sets
+
+	Avgs_Clustering.ipynb - Contains initial clustering based in Intervals_122014_User_Avgs.csv
 
 Not sure but there may be scripts there	for weather data:
 
